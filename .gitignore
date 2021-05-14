@@ -1,0 +1,6 @@
+*.txt
+.vs
+bin
+obj
+Libs
+MonoJunkie
